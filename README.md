@@ -2,7 +2,7 @@
 
 **Building trusted data products for analytics, experimentation, and ML.**
 
-I'm a senior data professional with 5+ years of experience turning complex business requirements into reusable data assets, reliable metrics, and actionable insights. My work connects data engineering and data analysis, combining scalable data foundations with experimentation, statistical analysis, and feature engineering to support business decisions and machine learning.
+I'm a senior data professional with 6+ years of experience turning complex business requirements into reusable data assets, reliable metrics, and actionable insights. My work connects data engineering and data analysis, combining scalable data foundations with experimentation, statistical analysis, and feature engineering to support business decisions and machine learning.
 
 ## 🎯 What I Focus On
 
